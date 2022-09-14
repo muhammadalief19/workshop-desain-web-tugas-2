@@ -1,0 +1,24 @@
+{
+  "name": "workshop-desain-web-tugas-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadalief19/workshop-desain-web-tugas-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadalief19/workshop-desain-web-tugas-2/issues"
+  },
+  "homepage": "https://github.com/muhammadalief19/workshop-desain-web-tugas-2#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
