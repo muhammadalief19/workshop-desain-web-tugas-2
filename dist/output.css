@@ -567,6 +567,14 @@ video {
   height: 7rem;
 }
 
+.h-full {
+  height: 100%;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
 .w-full {
   width: 100%;
 }
@@ -577,6 +585,10 @@ video {
 
 .w-\[50\%\] {
   width: 50%;
+}
+
+.border-collapse {
+  border-collapse: collapse;
 }
 
 .border-separate {
